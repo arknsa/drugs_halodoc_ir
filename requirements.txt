@@ -1,0 +1,5 @@
+Flask==2.2.2
+Dash==2.11.1
+NetworkX==3.0
+Plotly==5.15.0
+Flask-Cors==3.0.10
